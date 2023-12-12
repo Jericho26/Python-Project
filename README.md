@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-  <strong>KuryenTell: A Smart Energy Management System </strong>
+  <strong>Easyfill
 </p>
 
 #
@@ -22,7 +22,7 @@
  #
 ## 📚Introduction 
 <p align="justify">
-KuryenTell is a smart energy management system that transforms the way you handle electricity. Picture a future where KuryenTell calculates the consumption of each appliance. With KuryenTell, you not only stay informed about your electricity usage but also receive insights into how each appliance contributes. Join us on a journey toward a future where energy management is not just about cost but understanding and optimizing your usage effectively.
+Easyfill is a system that makes health care organizations and facilities collect information form their client easily. 
 </p>
 
 #
