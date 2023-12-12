@@ -22,17 +22,15 @@
  #
 ## 📚Introduction 
 <p align="justify">
-Easyfill is a system that makes health care organizations and facilities collect information form their client easily. 
+Everyday a lot of people are going to health care facilities to have a consultation and cure in their illness or concerns to their health. As they go their, they are required to fill up a form manually which takes a lot of time and can be a source of illness so I come up with Easyfill. Easyfill is a system that makes patients fill up a form easily easily from a health care organizations.
 </p>
 
 #
 ## ✨Features
 
-- Calculates kW usage hourly, daily, weekly, monthly, and yearly.
-- Displays the percentage of the total bill attributed to specific timeframes.
-- Estimates electricity cost based on calculated usage.
-- Offers tips on how to save electric energy.
-- Provides information on the energy efficiency of common appliances.
+- Show Patient Information
+- Insert, update and delete information
+
 
 #
 ## ✒Getting Started
@@ -136,46 +134,16 @@ The emphasis on environmental responsibility and energy-conscious practices in K
 </p>
 
 #
-## 🤵Meet the Team
+## 🤵Meet me
 
 <p align="center">  
 <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196085357084812/396625624_1394491068143826_476624505372656000_n.jpg?ex=657c8a41&is=656a1541&hm=dafce280562e3aa954b22c00dc31c75af10d8ec6ba80432e6bc748bde8d8f737&" width="250" height="250" />
 </p>
 <p align="center">
-  Calusor, John Paul D.
+ Golosino Jericho
 </p>
 <p align="center">
-  22-08449@g.batstate-u.edu.ph
-</p>
-
-<p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180198301224669215/Untitled_design_37_1.png?ex=657c8c52&is=656a1752&hm=32a7769e04c0c4136dbff8cede9fe4d7b743e9400cc6786ea3d0833a0a92b217&" width="250" height="250" />
-</p>
-<p align="center">
-   De Sagun, Carl Bradford M. 
-</p>
-<p align="center">
-  22-06966@g.batstate-u.edu.ph
-</p>
-
-<p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180200606946832445/396787136_658584359715358_8559433219625474211_n.jpg?ex=657c8e77&is=656a1977&hm=fd725c307858ce56f20933e2051dbc25d3cd0090537ce8dc6724ca25181000bb&" width="250" height="250" />
-</p>
-<p align="center">
-   Pasia, John Cedric M. 
-</p>
-<p align="center">
-  22-08064@g.batstate-u.edu.ph
-</p>
-
-<p align="center">  
-  <img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196086741213216/396654872_3418360145142641_3850126467493978964_n.jpg?ex=657c8a42&is=656a1542&hm=0dda443018a599130be175aeaa837cbec52fde89ef51bcb59514802c727211e4&" width="250" height="250" />
-</p>
-<p align="center">
-   Zoleta, Stephen M. 
-</p>
-<p align="center">
-  22-04181@g.batstate-u.edu.ph
+  22-05441@g.batstate-u.edu.ph
 </p>
 
 ## 📊Contributions and Self-Assessment
@@ -184,17 +152,15 @@ The emphasis on environmental responsibility and energy-conscious practices in K
   <strong>Breakdown of Contributions</strong>
 </p>
 
-- **Calusor, John Paul D.:** Programmer, PPT Presentation - (25%)
-- **De Sagun, Carl Bradford M.:** Programmer, Video Presentation - (25%)
-- **Pasia, John Cedric M.:** Programmer, ReadMe(Documentation) - (25%)
-- **Zoleta, Stephen M.:** Main Programmer, Developer/Debugger - (25%)
+- **Golosino Jericho:** Programmer, PPT Presentation, Video Presentation, ReadMe(Documentation - (100%)
+
 
 <p align="justify">
   <strong>Self-Assessment</strong>
 </p>
 
 <p align="justify">
-  We, the KuryenTell team, have conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
+  I, the Easyfill creator, have conducted a self-assessment of my project based on various criteria. Here are the ratings for the criteria:
 </p>
 
 - **Code Reusability:** 4
@@ -205,7 +171,7 @@ The emphasis on environmental responsibility and energy-conscious practices in K
 - **Overall Impression:** 4
 
 <p align="justify">
- These ratings signify our assessment of the project's performance in specific domains. We are committed to ongoing improvement and value your suggestions for potential enhancements in the future.
+ These ratings signify my assessment of the project's performance in specific domains. I am committed to ongoing improvement and value your suggestions for potential enhancements in the future.
 </p>
 
 
