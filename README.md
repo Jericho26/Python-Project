@@ -93,17 +93,13 @@ To install the other packages follow the same syntax but change the package name
 <img src = "https://github.com/Jericho26/Python-Project/blob/main/E_SDG_goals_icons-individual-rgb-03.png", width = 700, height = 300>
 </p>
 
-KuryenTell aligns with several United Nations Sustainable Development Goals (SDGs), including:
+Easyfill aligns with sdg 3 a sit promotes healthy and safe filling up of information
 
-- **SDG 3: Good Health and Well being**
-<p align="justify">
-Easyfill aligns with the goals of the sd 3 to promote secure and safe of filling up information for the people going to health care facilities.
-</p>
 
 #
 ## 🎥Video Presentation
 <p align="justify">
-  Explore the realm of "KuryenTell" through our engaging video presentation, highlighting its key features. Witness its capability to calculate kW usage across various timeframes, break down bill percentages, estimate electricity costs, offer energy-saving tips, and provide insights into appliance efficiency. Experience firsthand how KuryenTell transforms energy management for a sustainable future. 
+  Watch the video presentation to learn more about the Eastfill system.
 </p>
 
 <p align="center">
