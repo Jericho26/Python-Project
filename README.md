@@ -41,7 +41,7 @@ Everyday a lot of people are going to health care facilities to have a consultat
 To start, you need to download the following on the system
 
 - **Python**
-  Python version 3.12
+Python version 3.12
 
 - **pip**
 
