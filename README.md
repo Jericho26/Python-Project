@@ -79,7 +79,7 @@ To install the other packages follow the same syntax but change the package name
 ### 💻System Preview
 #
 <p align="center">
-  <img src="https://github.com/Jericho26/Python-Project/blob/main/Screenshot%202023-12-15%20105345.png">
+  <img src="https://github.com/Jericho26/Python-Project/blob/main/img.png">
 </p>
 
 #
