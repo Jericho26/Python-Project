@@ -90,7 +90,7 @@ To install the other packages follow the same syntax but change the package name
 ## 🌏Sustainable Development Goals (SDGs)
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/952903872790290443/1180526043824668672/image.png?ex=657dbd8d&is=656b488d&hm=ac442e4daee66de5bacc11f310fc80c23e9f86e6f161f71a95fe7a06509983b8&" width="600" height="250" />
+  [<img src="https://cdn.discordapp.com/attachments/952903872790290443/1180526043824668672/image.png?ex=657dbd8d&is=656b488d&hm=ac442e4daee66de5bacc11f310fc80c23e9f86e6f161f71a95fe7a06509983b8&" width="600" height="250" />](https://github.com/Jericho26/Python-Project/blob/main/E_SDG_goals_icons-individual-rgb-03.png)
 </p>
 
 KuryenTell aligns with several United Nations Sustainable Development Goals (SDGs), including:
