@@ -38,9 +38,10 @@ Everyday a lot of people are going to health care facilities to have a consultat
 ### 🔨Prerequisites
 
 <p align="justify">
-Before you begin, make sure you have the following requirements in place:
+To start, you need to download the following on the system
 
-In the creation of the project, the group used PyCharm, in pycharm it is possible to download different packages from the settings, that will be used to run the program.
+- **Python**
+  Python version 3.12
 
 - **pip**
 
@@ -48,49 +49,30 @@ The version of pip used was the latest which is 23.3.1
 
 - **Pillow**
 
-The version of Pillow used was 10.1.0. Our project allows the user to upload images which can be displayed in the program as well
+The version of Pillow used was 10.1.0. The project allows the user to upload images which can be displayed in the program as well
 
-- **openpyxl**
+- **mysqlconnector**
 
-The version of openpyxl used was 3.1.2.  Our projects take user input which is then saved in an excel file. Where the data can be retrieved and updated.
-
-- **et-xmlfile**
-
-The version of et-xmlfile used was 1.1.0. It is a low memory library for creating large XML files. It is based upon the xmlfile module from lxml with the aim of allowing code to be developed that will work with both libraries. 
-</p>
+The version of mysql-connector used was 8.2.0. The project take user input which is then saved in an excel file. Where the data can be retrieved and updated.
 
 
 #
 ### ⚙Installation
 
-#### 1. If you are using pycharm as well first open the file dropdown menu at the top right of the screen.
+#### 1. Download python. Install it after.
+Download it in the https://www.python.org/
 
- <img src="https://cdn.discordapp.com/attachments/1090914151188140093/1181991189960998992/unoo.png?ex=65831214&is=65709d14&hm=43976bf42b8051003e6e4fa50382fcc5d441712faafa37ae976beda445590f75&"/>
+#### 1. Download vscode. Install it after.
+Download it in the https://code.visualstudio.com/download
 
-#### 2. From there open settings and look for Project:File_Name.
-
-<img src="https://cdn.discordapp.com/attachments/1090914151188140093/1181988476154019891/384549205_1102124634486992_7578185024398584429_n.png?ex=65830f8c&is=65709a8c&hm=96d7ed54a32046b26fd5c28863d17d937875862fb02313009f942592b8a0fda6&"/>
-
-#### 3. Click Python Interpreter.
-
-<img src="https://cdn.discordapp.com/attachments/1090914151188140093/1181988476598620320/399887838_877498573764586_310062177122268095_n.png?ex=65830f8d&is=65709a8d&hm=1e7cd40e89a6c99577b1cb6ccb7ca2a008bd2fae1b504bc1f31382011c488c46&"/>
-
-#### 4. From there click the plus sign and search for the required packages.
-
-<img src="https://cdn.discordapp.com/attachments/1090914151188140093/1181988476925784124/400289141_7491396164227169_3768962517813119461_n.png?ex=65830f8d&is=65709a8d&hm=21f306a40a0608b17570d4dc70138e0011220899677b31c674c1ff64a744c973&"/>
-
-#### 5. If you are using Visual Studio code, open a terminal.
-
-<img src="https://cdn.discordapp.com/attachments/1090914151188140093/1181988478125342742/380017839_4365173527041912_8060091783367647220_n.png?ex=65830f8d&is=65709a8d&hm=4dbe471562b865e0e81f24f28c51d0500fe954ee48b260a468c062daabebec90&"/>
+#### 5. Open vscode and open terminal.
+You can see it at the bottom part of it.
 
 #### 6. From there, type “pip install pip” If you do not have pip installed.
 
-<img src="https://cdn.discordapp.com/attachments/1090914151188140093/1181988478490251415/370097235_568218005481285_7262925774631294985_n.png?ex=65830f8d&is=65709a8d&hm=3c1b378832bf5ef9c5e5656a2de0d080fbce0227d633fdf58a0247f7b0d063b9&"/>
-
 To install the other packages follow the same syntax but change the package name at the end
 
-- **pip install openpyxl**
-- **pip install et-xmlfile**
+- **pip install mysql-connector-python**
 - **pip install Pillow**
 
 #
