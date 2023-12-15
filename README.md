@@ -50,7 +50,7 @@ The version of pip used was the latest which is 23.3.1
 
 - **mysqlconnector**
 
-The version of mysql-connector used was 8.2.0. The project take user input which is then saved in an excel file. Where the data can be retrieved and updated.
+The version of mysql-connector used was 8.2.0. The project take user input which is saved in mysql.
 
 
 #
