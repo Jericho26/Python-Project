@@ -91,7 +91,7 @@ Easyfill aligns with sdg 3 that promotes healthy and safe filling out of informa
 #
 ## 🎥Video Presentation
 <p align="center">
-  <a href="https://drive.google.com/file/d/1WDqtNCGuEGAipUsDAwEFMsDPlk1zRcVr/view?usp=drive_link"</a>
+  <a href="https://drive.google.com/file/d/1WDqtNCGuEGAipUsDAwEFMsDPlk1zRcVr/view?usp=drive_link" "target = _blank"</a>
 </p>
 
 
