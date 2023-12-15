@@ -70,7 +70,6 @@ You can see it at the bottom part of it.
 To install the other packages follow the same syntax but change the package name at the end
 
 - **pip install mysql-connector-python**
-- **pip install Pillow**
 
 #
 ### 💻System Preview
