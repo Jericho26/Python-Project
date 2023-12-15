@@ -129,10 +129,10 @@ Easyfill aligns with sdg 3 that promotes healthy and safe filling out of informa
   I, the Easyfill creator, have conducted a self-assessment of my project based on various criteria. Here are the ratings for the criteria:
 </p>
 
-- **Code Reusability:** 4
-- **Maintainability:** 4
-- **Scalability:** 4
-- **Execution:** 4
+- **Code Reusability:** 3
+- **Maintainability:** 3
+- **Scalability:** 3
+- **Execution:** 3
 - **Originality:** 3
 - **Overall Impression:** 3
 
