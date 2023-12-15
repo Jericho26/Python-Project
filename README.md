@@ -22,7 +22,7 @@
  #
 ## 📚Introduction 
 <p align="justify">
-Everyday a lot of people are going to health care facilities to have a consultation and cure in their illness or concerns to their health. As they go their, they are required to fill out a form manually which takes a lot of time and can be a source of illness so I come up with Easyfill. Easyfill is a system that makes patients fill out a form easily easily from a health care organizations.
+Everyday a lot of people are going to health care facilities to have a consultation and cure in their illness or concerns to their health. As they go their, they are required to fill out a form manually which takes a lot of time and can be a source of illness so I come up with Easyfill. Easyfill is a system that makes patients fill out a form easily from a health care organizations.
 </p>
 
 #
