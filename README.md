@@ -140,8 +140,8 @@ Easyfill aligns with sdg 3 a sit promotes healthy and safe filling up of informa
 - **Maintainability:** 4
 - **Scalability:** 4
 - **Execution:** 4
-- **Originality:** 4
-- **Overall Impression:** 4
+- **Originality:** 3
+- **Overall Impression:** 3
 
 <p align="justify">
  These ratings signify my assessment of the project's performance in specific domains. I am committed to ongoing improvement and value your suggestions for potential enhancements in the future.
