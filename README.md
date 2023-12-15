@@ -110,7 +110,7 @@ Easyfill aligns with sdg 3 a sit promotes healthy and safe filling up of informa
 ## 🤵Meet me
 
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/829251119985197057/1180196085357084812/396625624_1394491068143826_476624505372656000_n.jpg?ex=657c8a41&is=656a1541&hm=dafce280562e3aa954b22c00dc31c75af10d8ec6ba80432e6bc748bde8d8f737&" width="250" height="250" />
+<img src="https://github.com/Jericho26/Python-Project/blob/main/mypic.jpg", width="250" height="250" />
 </p>
 <p align="center">
  Golosino Jericho
