@@ -22,7 +22,7 @@
  #
 ## 📚Introduction 
 <p align="justify">
-Everyday a lot of people are going to health care facilities to have a consultation and cure in their illness or concerns to their health. As they go their, they are required to fill up a form manually which takes a lot of time and can be a source of illness so I come up with Easyfill. Easyfill is a system that makes patients fill up a form easily easily from a health care organizations.
+Everyday a lot of people are going to health care facilities to have a consultation and cure in their illness or concerns to their health. As they go their, they are required to fill out a form manually which takes a lot of time and can be a source of illness so I come up with Easyfill. Easyfill is a system that makes patients fill out a form easily easily from a health care organizations.
 </p>
 
 #
@@ -46,10 +46,6 @@ To start, you need to download the following on the system
 - **pip**
 
 The version of pip used was the latest which is 23.3.1
-
-- **Pillow**
-
-The version of Pillow used was 10.1.0. The project allows the user to upload images which can be displayed in the program as well
 
 - **mysqlconnector**
 
@@ -89,7 +85,7 @@ To install the other packages follow the same syntax but change the package name
 <img src = "https://github.com/Jericho26/Python-Project/blob/main/E_SDG_goals_icons-individual-rgb-03.png", width = 700, height = 300>
 </p>
 
-Easyfill aligns with sdg 3 a sit promotes healthy and safe filling up of information
+Easyfill aligns with sdg 3 that promotes healthy and safe filling out of information
 
 
 #
@@ -99,7 +95,10 @@ Easyfill aligns with sdg 3 a sit promotes healthy and safe filling up of informa
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1dBXQfO4h08yldOWtkDQEoW4KWw5A_6wU/view?usp=drive_link" target="_blank">KuryenTell Video Presentation</a>
+
+<p align="center">
+  <a >Easyfill Video Presentation</a>
+</p>
 </p>
 
 #
