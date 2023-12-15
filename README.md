@@ -113,14 +113,9 @@ To install the other packages follow the same syntax but change the package name
 
 KuryenTell aligns with several United Nations Sustainable Development Goals (SDGs), including:
 
-- **SDG 12: Responsible Consumption and Production**
+- **SDG 3: Good Health and Well being**
 <p align="justify">
-KuryenTell aims to promote informed decision-making, reduce energy consumption, and instill responsible practices, aligning with SDG 12 (Responsible Consumption and Production). This commitment emphasizes the application's dedication to fostering sustainable energy use and responsible resource management.
-</p>
-
-- **SDG 13: Climate Action**
-<p align="justify">
-The emphasis on environmental responsibility and energy-conscious practices in KuryenTell also aligns with global efforts to combat climate change and mitigate its impacts.
+Easyfill aligns with the goals of the sd 3 to promote secure and safe of filling up information for the people going to health care facilities.
 </p>
 
 #
