@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Easyfill.png" width="860" height="270" />
+  <img src="https://github.com/Jericho26/Python-Project/blob/main/Folder1/Easyfill.png" width="860" height="270" />
 </p>
   
 <p align="center">
