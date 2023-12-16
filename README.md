@@ -82,7 +82,7 @@ To install the other packages follow the same syntax but change the package name
 ## 🌏Sustainable Development Goals (SDGs)
 
 <p align="center">
-<img src = "https://github.com/Jericho26/Python-Project/blob/main/E_SDG_goals_icons-individual-rgb-03.png", width = 700, height = 300>
+<img src = "https://github.com/Jericho26/Python-Project/blob/main/Folder1/sdg.jpg", width = 700, height = 300>
 </p>
 
 Easyfill aligns with sdg 3 that promotes healthy and safe filling out of information
