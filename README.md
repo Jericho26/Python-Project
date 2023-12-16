@@ -98,7 +98,7 @@ Easyfill aligns with sdg 3 that promotes healthy and safe filling out of informa
 ## 🤵Meet me
 
 <p align="center">  
-<img src="https://github.com/Jericho26/Python-Project/blob/main/mypic.jpg", width="250" height="250" />
+<img src="https://github.com/Jericho26/Python-Project/blob/main/Folder1/mypic.jpg", width="250" height="250" />
 </p>
 <p align="center">
  Golosino Jericho
@@ -124,8 +124,8 @@ Easyfill aligns with sdg 3 that promotes healthy and safe filling out of informa
   I, the Easyfill creator, have conducted a self-assessment of my project based on various criteria. Here are the ratings for the criteria:
 </p>
 
-- **Code Reusability:** 3
-- **Maintainability:** 3
+- **Code Reusability:** 4
+- **Maintainability:** 4
 - **Scalability:** 3
 - **Execution:** 3
 - **Originality:** 3
